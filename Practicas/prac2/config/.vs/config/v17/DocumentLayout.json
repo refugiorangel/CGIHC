@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\IC\\MATERIAS\\CGIHC\\Practicas\\CGIHC\\Practicas\\prac2\\config\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08038B87-901B-4630-8D01-09ECD963AF87}|config\\config.vcxproj|E:\\IC\\MATERIAS\\CGIHC\\Practicas\\CGIHC\\Practicas\\prac2\\config\\config\\Main_Dibujo2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08038B87-901B-4630-8D01-09ECD963AF87}|config\\config.vcxproj|solutionrelative:config\\Main_Dibujo2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main_Dibujo2D.cpp",
+              "DocumentMoniker": "E:\\IC\\MATERIAS\\CGIHC\\Practicas\\CGIHC\\Practicas\\prac2\\config\\config\\Main_Dibujo2D.cpp",
+              "RelativeDocumentMoniker": "config\\Main_Dibujo2D.cpp",
+              "ToolTip": "E:\\IC\\MATERIAS\\CGIHC\\Practicas\\CGIHC\\Practicas\\prac2\\config\\config\\Main_Dibujo2D.cpp",
+              "RelativeToolTip": "config\\Main_Dibujo2D.cpp",
+              "ViewState": "AgIAADgAAAAAAAAAAAAqwLAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-11T07:38:32.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
