@@ -1,2 +1,2 @@
 # CGIHC
-Materia Computación Gráfica e Interacción Humano Computadora
+Materia Computación Gráfica e Interacción Humano Computadora. 
